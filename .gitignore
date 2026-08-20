@@ -1,0 +1,4 @@
+Dataset/
+.env
+similarity.pkl
+movie_dict.pkl
